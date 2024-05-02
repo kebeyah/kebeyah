@@ -1,0 +1,23 @@
+.current {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Century Gothic;
+}
+
+.exp1 {
+    width: 280px !important;
+}
+
+.exp3 {
+    width: 190px !important;
+}
+.exp4{
+    width: 230px !important;
+}
+.exp2 {
+    width: auto;
+}
